@@ -50,8 +50,11 @@ Provider State Management
 🚀 How to Run the Project:
 
 git clone https://github.com/Abdurahman4/meal-order-app.git
+
 cd meal-order-app
+
 flutter pub get
+
 flutter run
 
 
@@ -61,6 +64,7 @@ flutter run
 Abdurahman Eid
 📞 0549218744
 🔗 GitHub: https://github.com/Abdurahman4
+
 
 
 
