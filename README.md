@@ -1,9 +1,15 @@
-🍔 Meal Order App
-A modern food ordering application built using Flutter and Firebase.
-It allows users to browse restaurants, order meals, and track deliveries with a beautiful and intuitive interface.
+🍔 Meal Order App:
 
-✨ Features
+A simple food ordering application built with Flutter + SQLite (Local Database).
+This app allows users to browse items, add them to the cart, place orders, and track order status.
+
+✨ Features:
+
+👤 User login & account system
+
 🍕 Browse restaurants and menus
+
+📋 Order management (All / New / Processing / Complete)
 
 📱 Place orders with ease
 
@@ -11,28 +17,19 @@ It allows users to browse restaurants, order meals, and track deliveries with a 
 
 📍 Real-time order tracking
 
-💳 Secure payment integration
-
-🔔 Order status notifications
-
-🌙 Light & Dark Mode support
-
 👤 User profiles and order history
 
-🛠️ Technologies Used
+🗂️ Basic admin page (manage orders)
+
+💾 SQLite data storage (no server required)
+
+🛠️ Technologies Used:
+
 Flutter (Dart)
 
-Firebase Firestore
-
-Firebase Authentication
-
-Cloud Functions
+SQLite
 
 Provider State Management
-
-Material Design 3
-
-Google Maps API
 
 ## 📸 Screenshots
 <p align="center">
@@ -50,24 +47,20 @@ Google Maps API
   <img src="images/images/10.jpeg" width="30%" alt="User profile and settings" />
   <img src="images/images/11.jpeg" width="30%" alt="App in dark mode theme" />
 </p>
-🚀 How to Run the Project
-Clone the repository:
+🚀 How to Run the Project:
 
-bash
 git clone https://github.com/Abdurahman4/meal-order-app.git
-Navigate to the project directory:
-
-bash
 cd meal-order-app
-Install dependencies:
-
-bash
 flutter pub get
-Run the app:
-
-bash
 flutter run
 
+
+
+📞 Contact:
+
+Abdurahman Eid
+📞 0549218744
+🔗 GitHub: https://github.com/Abdurahman4
 
 
 
