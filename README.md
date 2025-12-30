@@ -34,8 +34,22 @@ Material Design 3
 
 Google Maps API
 
-📸 Screenshots
-<p align="center"> <img src="images/5.jpeg" width="30%" alt="Restaurant List" /> <img src="assets/images/6.jpeg" width="30%" alt="Menu Screen" /> <img src="D:\Projects_App\Flutter-App\e_commerce\images\7.jpeg" width="30%" alt="Food Details" /> </p><p align="center"> <img src="assets/images/8.jpeg" width="30%" alt="Cart Screen" /> <img src="assets/images/9.jpeg" width="30%" alt="Checkout Screen" /> <img src="assets/images/90.jpeg" width="30%" alt="Order Tracking" /> </p><p align="center"> <img src="assets/images/91.jpeg" width="30%" alt="Profile Screen" /> <img src="assets/images/92.jpeg" width="30%" alt="Order History" /> <img src="assets/images/93.jpeg" width="30%" alt="Dark Mode" /> </p>
+## 📸 Screenshots
+<p align="center">
+  <img src="images/1.jpeg" width="30%" alt="Home Screen - Browse restaurants near you" />
+  <img src="images/4.jpeg" width="30%" alt="Restaurant list with ratings and categories" />
+  <img src="images/5.jpeg" width="30%" alt="Restaurant menu with food items and prices" />
+</p>
+<p align="center">
+  <img src="images/6.jpeg" width="30%" alt="Food details with ingredients and customization" />
+  <img src="images/7.jpeg" width="30%" alt="Shopping cart with items and total price" />
+  <img src="images/8.jpeg" width="30%" alt="Checkout screen with address and payment" />
+</p>
+<p align="center">
+  <img src="images/9.jpeg" width="30%" alt="Live order tracking on map" />
+  <img src="images/10.jpeg" width="30%" alt="User profile and settings" />
+  <img src="images/11.jpeg" width="30%" alt="App in dark mode theme" />
+</p>
 🚀 How to Run the Project
 Clone the repository:
 
@@ -53,5 +67,6 @@ Run the app:
 
 bash
 flutter run
+
 
 
