@@ -36,19 +36,19 @@ Google Maps API
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="images/1.jpeg" width="30%" alt="Home Screen - Browse restaurants near you" />
-  <img src="images/4.jpeg" width="30%" alt="Restaurant list with ratings and categories" />
-  <img src="images/5.jpeg" width="30%" alt="Restaurant menu with food items and prices" />
+  <img src="images/images/1.jpeg" width="30%" alt="Home Screen - Browse restaurants near you" />
+  <img src="images/images/4.jpeg" width="30%" alt="Restaurant list with ratings and categories" />
+  <img src="images/images/5.jpeg" width="30%" alt="Restaurant menu with food items and prices" />
 </p>
 <p align="center">
-  <img src="images/6.jpeg" width="30%" alt="Food details with ingredients and customization" />
-  <img src="images/7.jpeg" width="30%" alt="Shopping cart with items and total price" />
-  <img src="images/8.jpeg" width="30%" alt="Checkout screen with address and payment" />
+  <img src="images/images/6.jpeg" width="30%" alt="Food details with ingredients and customization" />
+  <img src="images/images/7.jpeg" width="30%" alt="Shopping cart with items and total price" />
+  <img src="images/images/8.jpeg" width="30%" alt="Checkout screen with address and payment" />
 </p>
 <p align="center">
-  <img src="images/9.jpeg" width="30%" alt="Live order tracking on map" />
-  <img src="images/10.jpeg" width="30%" alt="User profile and settings" />
-  <img src="images/11.jpeg" width="30%" alt="App in dark mode theme" />
+  <img src="images/images/9.jpeg" width="30%" alt="Live order tracking on map" />
+  <img src="images/images/10.jpeg" width="30%" alt="User profile and settings" />
+  <img src="images/images/11.jpeg" width="30%" alt="App in dark mode theme" />
 </p>
 🚀 How to Run the Project
 Clone the repository:
@@ -67,6 +67,7 @@ Run the app:
 
 bash
 flutter run
+
 
 
 
